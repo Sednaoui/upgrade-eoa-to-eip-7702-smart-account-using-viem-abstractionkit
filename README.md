@@ -57,13 +57,7 @@ Then edit `.env` with your RPC endpoint, and Candide configuration if you would 
 ## Running the Example
 
 ```bash
-npm start
-```
-
-Or with ts-node:
-
-```bash
-ts-node index.ts
+npx ts-node index.ts
 ```
 
 ## Configuration Options
